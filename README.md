@@ -30,9 +30,9 @@ Are you having DNS problems? These lists contains the same trackers but with IP 
 ngosang [@] hotmail [.es]
 
 ##### Donations
-* [![Beerpay](https://beerpay.io/ngosang/trackerslist/badge.svg?style=flat)](https://beerpay.io/ngosang/trackerslist)
-* BTC: [1JMkeuLX9DA8sssZLSeSvSRvS1iVCu2wNT](https://btc.com/1JMkeuLX9DA8sssZLSeSvSRvS1iVCu2wNT)
-* ETH: [0x50A79a95878dd588A55E909dAc2eA3962D2fA46c](https://etherscan.io/address/0x50A79a95878dd588A55E909dAc2eA3962D2fA46c)
+* 
+* BTC: bc1q62hu26jxrn9ark8y39zdeqtl6rf60rk9zjgadn
+* 
 
 ##### Third-party tools
 * [bittorrent-tracker-editor](https://github.com/GerryFerdinandus/bittorrent-tracker-editor) to add these trackers to your .torrent files
