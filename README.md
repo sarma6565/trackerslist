@@ -31,7 +31,7 @@ ngosang [@] hotmail [.es]
 
 ##### Donations
 * 
-* BTC: bc1q62hu26jxrn9ark8y39zdeqtl6rf60rk9zjgadn
+* BTC: 16ZgePSz9TSS5dobbeBTEyLBCb9JYDbRzc
 * 
 
 ##### Third-party tools
